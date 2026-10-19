@@ -1,0 +1,9 @@
+MILESTONE GRANT PLEDGE — Open Audit Dashboard
+
+SCOPE: Deliver an open-source dashboard that aggregates smart-contract audit findings for the ecosystem.
+MILESTONES: Working alpha by the end of month two; public beta by the end of month four.
+BUDGET: 40,000 USD total, with at least 60 percent allocated to engineering work.
+TIMELINE: The full scope is completed within six months of funding.
+BENEFICIARIES: Independent security researchers and small audit teams in the ecosystem.
+
+This is the complete pledge locked at the time funding was approved.
